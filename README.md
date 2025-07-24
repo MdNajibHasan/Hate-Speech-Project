@@ -77,7 +77,8 @@ to compute:
 -  **Bias-Sensitive Framework** to assess model alignment under biased and unbiased labeling settings  
 -  Extensive **multi-model comparison**: Gemini, GPT, DeepSeek, Mistral, LLaMA, Qwen  
 -  Evaluation across **multiple label granularities** (2, 3, 4, 5, 6 labels)  
--  Detection of **annotator bias and mismatch patterns**   
+-  Detection of **annotator bias and mismatch patterns**
+-  Investigate a proper understanding of LLM with reasoning during multi-label classification.  
 
 ---
 
